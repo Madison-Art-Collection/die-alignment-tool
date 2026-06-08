@@ -73,6 +73,15 @@ Tips for good alignment:
 - Add more pairs (up to 8) if the first compute looks off.
 - Use **Undo** to remove the last-placed point, or **Reset** to start over.
 
+## Examples
+
+Successful die matches identified using this tool:
+
+- **[2024.2.33](https://jmu.emuseum.com/objects/8843/didrachm-of-velia?ctx=a079862b062285acfb9efa80b6d79c0fe053465a&idx=0)** aligns with **Williams 413** 
+- **2024.2.34** aligns with **Williams 577**
+
+These examples demonstrate how the tool can identify coins struck from the same die by precisely overlaying and comparing fine details in the die surface.
+
 ## Image format support
 
 JPEG, PNG, TIFF. 
