@@ -75,7 +75,7 @@ Tips for good alignment:
 
 ## Examples
 
-Successful die matches identified using this tool:
+Successful die matches identified using this tool and are invluded in images/:
 
 - **[2024.2.33](https://jmu.emuseum.com/objects/8843/didrachm-of-velia?ctx=a079862b062285acfb9efa80b6d79c0fe053465a&idx=0)** aligns with **Williams 413** 
 - **2024.2.34** aligns with **Williams 577**
